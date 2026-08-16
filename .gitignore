@@ -1,0 +1,19 @@
+# VS Code
+.vscode/
+
+# Local installer/download artifacts
+Miniconda3-latest-Linux-x86_64.sh
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
